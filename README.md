@@ -135,18 +135,4 @@ Fridays are consistently the busiest day, with weekdays performing better than S
 
 ---
 
-## 📁 Repository Structure
-
-```
-pizza-analysis-sql/
-│
-├── cleaning/
-│   └── data_cleaning.sql
-├── eda/
-│   └── exploratory_analysis.sql
-└── README.md
-```
-
----
-
 *Analysis performed using MySQL Workbench*
